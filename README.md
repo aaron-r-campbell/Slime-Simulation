@@ -4,9 +4,10 @@ Based on [Slime-Simulation by Sebastian Lague](https://github.com/SebLague/Slime
 
 ## Building and Running
 
-1. Configure settings for simulation, trails, and species in [src/config.h](src/config.h).
-2. Build the program with `gcc -o main src/main.c -lm -lglfw -lGL -lGLEW`
-3. Run the program with `./main`.
+1. Install dependencies `gl glfw glew` according to your system.
+2. Configure settings for simulation, trails, and species in [src/config.h](src/config.h).
+3. Build the program with `gcc -o main src/main.c -lm -lglfw -lGL -lGLEW`
+4. Run the program with `./main`.
 
 ## Controls
 
