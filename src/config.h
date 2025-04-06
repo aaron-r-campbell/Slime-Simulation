@@ -14,7 +14,7 @@ static enum SpawnMode spawnMode = CIRCLE_RANDOM;
 
 // Trail settings
 int trailWeight = 12;
-int decayRate = 0.5;
+float decayRate = 0.5;
 int diffuseRate = 3;
 
 // Window settings
