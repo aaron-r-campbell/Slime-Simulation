@@ -20,3 +20,4 @@ A/D to `add` and `delete` a species
 - CLI args for configuration
 - Loadable config files
 - Spawn agents according to image using color quantization
+- Mouse interaction for attract/repel
